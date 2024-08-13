@@ -23,7 +23,8 @@ find me at:
 
 
 ![Github stats dark](https://raw.githubusercontent.com/isada-g/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=isada-g&theme=dark)
 </div>
