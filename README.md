@@ -22,7 +22,7 @@ find me at:
 
 
 
-![Github stats dark]([https://raw.githubusercontent.com/isada-g/github-stats/master/generated/overview.svg#gh-dark-mode-only](https://raw.githubusercontent.com/isada-g/Statistic/master/generated/overview.svg))
+![Github stats dark](https://raw.githubusercontent.com/isada-g/github-stats/master/generated/overview.svg#gh-dark-mode-only](https://raw.githubusercontent.com/isada-g/Statistic/master/generated/overview.svg)](https://raw.githubusercontent.com/isada-g/Statistic/master/generated/overview.svg)
 ![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
