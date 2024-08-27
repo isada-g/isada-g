@@ -5,7 +5,7 @@
 </div>
 
 ### Some facts about me:
-- I am currently studying **Computer Engineering** at the [Istanbul Aydin University](https://www.aydin.edu.tr/). Developing the machine spirit.
+- I am currently studying **Computer Engineering** at the [Istanbul Aydin University](https://www.aydin.edu.tr/).
 
 - I am casually studying japanese.
 
